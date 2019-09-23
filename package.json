@@ -1,15 +1,21 @@
 {
-  "name": "babel-plugin",
+  "name": "babel-plugin-mig",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "wla lng",
+  "main": "lib/index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelambayec/babel-plugin-mig.git"
+  },
+  "author": "Miguel",
   "license": "ISC",
-  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/miguelambayec/babel-plugin-mig/issues"
+  },
+  "homepage": "https://github.com/miguelambayec/babel-plugin-mig#readme",
   "devDependencies": {
     "@babel/cli": "^7.6.0",
     "@babel/core": "^7.6.0",

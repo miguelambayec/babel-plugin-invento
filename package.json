@@ -1,21 +1,21 @@
 {
-  "name": "babel-plugin-mig",
+  "name": "babel-plugin-invento",
   "version": "1.0.0",
-  "description": "wla lng",
+  "description": "",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miguelambayec/babel-plugin-mig.git"
+    "url": "git+https://github.com/miguelambayec/babel-plugin-invento.git"
   },
   "author": "Miguel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miguelambayec/babel-plugin-mig/issues"
+    "url": "https://github.com/miguelambayec/babel-plugin-invento/issues"
   },
-  "homepage": "https://github.com/miguelambayec/babel-plugin-mig#readme",
+  "homepage": "https://github.com/miguelambayec/babel-plugin-invento#readme",
   "devDependencies": {
     "@babel/cli": "^7.6.0",
     "@babel/core": "^7.6.0",

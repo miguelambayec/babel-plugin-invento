@@ -1,1 +1,6 @@
-const a = () => <Mig>a</Mig>;
+const a = () => (
+  <>
+    <Mig>a</Mig>
+    <div>b</div>
+  </>
+);

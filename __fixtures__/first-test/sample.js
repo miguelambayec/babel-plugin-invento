@@ -1,1 +1,6 @@
-const a = () => <div style={{ backgroundColor: "red" }}>a</div>;
+const a = () => (
+  <>
+    <div style={{ backgroundColor: "red" }}>a</div>
+    <div>b</div>
+  </>
+);

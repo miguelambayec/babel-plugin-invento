@@ -1,7 +1,7 @@
 "use strict";
 
-const a = () => React.createElement("div", {
+const a = () => React.createElement(React.Fragment, null, React.createElement("div", {
   style: {
     backgroundColor: "red"
   }
-}, "a");
+}, "a"), React.createElement("div", null, "b"));

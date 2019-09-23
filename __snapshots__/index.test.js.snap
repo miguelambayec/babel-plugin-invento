@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`sample 1. sample: 1. sample 1`] = `
+"
+var a = '05';
+
+      ↓ ↓ ↓ ↓ ↓ ↓
+
+var b = '05';
+"
+`;
